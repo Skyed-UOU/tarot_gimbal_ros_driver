@@ -1,0 +1,11 @@
+---
+gimbal:
+  verbose: false
+  port_name: "/dev/gimbal"
+  baud_rate: 115200
+  roll_angle_max: 40
+  roll_angle_min: -40
+  pitch_angle_max: 45
+  pitch_angle_min: -125
+  yaw_angle_max: 45
+  yaw_angle_min: -45

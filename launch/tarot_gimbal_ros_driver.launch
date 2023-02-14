@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+  <rosparam command="load" file="$(find tarot_gimbal_ros_driver)/cfg/setup.yaml" />
+  <node pkg="tarot_gimbal_ros_driver" type="tarot_gimbal_ros_driver" name="tarot_gimbal_ros_driver"
+    respawn="true" output="screen"/>
+</launch>

@@ -1,0 +1,43 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/aarl/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/aarl/catkin_ws/src/avoidance/avoidance/include/**",
+        "/home/aarl/catkin_ws/src/image_transport_plugins/compressed_depth_image_transport/include/**",
+        "/home/aarl/catkin_ws/src/image_transport_plugins/compressed_image_transport/include/**",
+        "/home/aarl/catkin_ws/src/cv3_bridge/include/**",
+        "/home/aarl/catkin_ws/src/vision_opencv/cv_bridge/include/**",
+        "/home/aarl/catkin_ws/src/yolov4-for-darknet_ros/darknet_ros/darknet_ros/include/**",
+        "/home/aarl/catkin_ws/src/image_pipeline/depth_image_proc/include/**",
+        "/home/aarl/catkin_ws/src/fiducials/fiducial_slam/include/**",
+        "/home/aarl/catkin_ws/src/avoidance/global_planner/include/**",
+        "/home/aarl/catkin_ws/src/gpu_stereo_image_proc/include/**",
+        "/home/aarl/catkin_ws/src/gscam/include/**",
+        "/home/aarl/catkin_ws/src/vision_opencv/image_geometry/include/**",
+        "/home/aarl/catkin_ws/src/image_pipeline/image_proc/include/**",
+        "/home/aarl/catkin_ws/src/mavros/libmavconn/include/**",
+        "/home/aarl/catkin_ws/src/avoidance/local_planner/include/**",
+        "/home/aarl/catkin_ws/src/mavros/mavros/include/**",
+        "/home/aarl/catkin_ws/src/mavros/mavros_msgs/include/**",
+        "/home/aarl/catkin_ws/src/rqt_image_view/include/**",
+        "/home/aarl/catkin_ws/src/avoidance/safe_landing_planner/include/**",
+        "/home/aarl/catkin_ws/src/image_pipeline/stereo_image_proc/include/**",
+        "/home/aarl/catkin_ws/src/mavros/test_mavros/include/**",
+        "/home/aarl/catkin_ws/src/image_transport_plugins/theora_image_transport/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-arm64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
